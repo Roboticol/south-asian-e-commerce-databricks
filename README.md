@@ -29,7 +29,7 @@ E‑commerce platforms need accurate short‑term demand forecasts to optimize i
 
 ## 3. Dataset
 
-- **Source:** [South Asia E‑Commerce Dataset (CSV)](https://data.mendeley.com/datasets/ggbkd8ck3x/1)
+- **Source:** [South Asia E‑Commerce Dataset (.xslx, must be converted to .csv)](https://data.mendeley.com/datasets/ggbkd8ck3x/1)
 - **Size:** ~100,000 orders
 - **Key Challenges:**
   - Non‑ISO timestamps (e.g. `03.11.2015 06:44`)
