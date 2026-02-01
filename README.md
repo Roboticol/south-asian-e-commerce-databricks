@@ -39,7 +39,7 @@ E‑commerce platforms need accurate short‑term demand forecasts to optimize i
 These issues are intentionally handled in the pipeline to reflect **real‑world data quality problems**.
 
 ## Stats
-- Total Orders = 85193 units
+- Total Orders = 85193 units (The ones with missing values were truncated)
 - Total SKUs = 11898 units
   
 - RMSE = 0.368
