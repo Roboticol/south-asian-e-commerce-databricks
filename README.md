@@ -38,6 +38,16 @@ E‑commerce platforms need accurate short‑term demand forecasts to optimize i
 
 These issues are intentionally handled in the pipeline to reflect **real‑world data quality problems**.
 
+## Stats
+- Total Orders = 85193 units
+- Total SKUs = 11898 units
+  
+- RMSE = 0.368
+- Baseline RMSE = 1.581
+  
+- Mean Daily Demand = 5.09 units
+- Relative Error = 7.27%
+- Relative Improvement = 76.7%
 
 
 ## 4. Architecture (Medallion Lakehouse)
